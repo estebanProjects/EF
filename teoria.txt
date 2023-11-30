@@ -1,0 +1,35 @@
+- No relacional
+
+Colecciones / Documentos / Campos (_id)
+Flexibilidad
+
+Modelado (definir estructura)
+- jsonSchema validation
+  * required: definir que campos obligatorios
+  * properties: caracteristicas de los campos 
+
+Relaciones
+- 1 a 1
+- 1 a muchos
+
+Patrones de modelado
+- anidado (embeded)
+- subconjunto
+- referencias
+
+// *** //
+DML
+find: buscar documentos
+- filtros: condiciones
+- campos: campos que queremos que se muestren (proyeccion)
+
+insertOne (object) / insertMany (array)
+updateOne / updateMany
+deleteOne / deleteMany
+
+aggregate: ejecutar una secuencia de operaciones
+    - $match: filtrar
+    - $group: agrupar
+    - $sort: ordenar
+    - $project: indicar que campos se mostraran
+    
