@@ -1,0 +1,7 @@
+18/10/2023 -> consultas, vistas, introduccion a funciones
+21/10/2023 -> funciones
+
+08/11/2023 -> json Schema, insert, find
+15/11/2023 -> json Schema model patterns
+18/11/2023 -> consulta con find
+22/11/2023 -> operacion con aggregate 
